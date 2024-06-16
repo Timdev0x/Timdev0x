@@ -6,5 +6,4 @@ Fiverr: https://www.fiverr.com/inbox/suredeveloper
 Email: tim.dev2019@gmail.com
 --
 
-
-  
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
