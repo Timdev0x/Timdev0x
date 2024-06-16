@@ -5,10 +5,8 @@ Fiverr: https://www.fiverr.com/inbox/suredeveloper
 Email: tim.dev2019@gmail.com
 same way you'd normally center an image.
 
-<p align="center">
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,java,kotlin,css,discord,django,docker,express,firebase,github,go,graphql,heroku,html,jenkins,kali,kubernetes,nginx,nuxtjs,py,react,rails,redis,tailwind,terraform,tensorflow,ts,vscode,nodejs,figma,sublime,ruby,redux,mongo,php&theme=light)/>
-    </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=css,discord,django,docker,express,firebase,github,sublime,ruby,redux,mongo,php,go,graphql,heroku,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" />  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
