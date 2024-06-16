@@ -3,10 +3,11 @@ Hi there 👋. I am a self driven IT solutions enthusiast and developer. I am an
 If you are interested in a remote developer and IT expert reach me:
 Fiverr: https://www.fiverr.com/inbox/suredeveloper
 Email: tim.dev2019@gmail.com
+same way you'd normally center an image.
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,css,discord,django,docker,express,firebase,github,go,graphql,heroku,html,jenkins,kali,kubernetes,nginx,nuxtjs,py,react,rails,redis,tailwind,terraform,tensorflow,ts,vscode,nodejs,figma,sublime,ruby,redux,mongo,php&theme=light)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,java,kotlin,css,discord,django,docker,express,firebase,github,go,graphql,heroku,html,jenkins,kali,kubernetes,nginx,nuxtjs,py,react,rails,redis,tailwind,terraform,tensorflow,ts,vscode,nodejs,figma,sublime,ruby,redux,mongo,php&theme=light)/>
+    </a>
 </p>
 
 
