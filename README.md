@@ -17,7 +17,10 @@ same way you'd normally center an image.
 
 ![Tim Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&hide_progress=true)
-[![Tim Dev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Timdev0x/github-readme-stats)
+             
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 
 
 
