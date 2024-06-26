@@ -1,7 +1,9 @@
 Hi there 👋. I am a self driven IT solutions enthusiast and developer. I am an IT graduate (BSc. IT) from Murang'a University of Technology (MUT) Kenya who loves being on the keyboard building/programming and testing stuff. I am passionate about testing having a backgroung in IT security testing and developing API's. This experience enables me to build and develop better and securely as a fullstack dev. In recent times, I have been scaling to DevOps and have been continuously learning and upskilling to work with recent IT trends and innovations inlcuding AI, Blockchain, Ecommerce, and Fintech. 
 
 If you are interested in a remote developer and IT expert reach me:
+
 Fiverr: https://www.fiverr.com/inbox/suredeveloper
+
 Email: tim.dev2019@gmail.com
 
 
