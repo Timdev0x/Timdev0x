@@ -1,4 +1,42 @@
-Hi there 👋. I am a self driven IT solutions enthusiast and developer. I am an IT graduate (BSc. IT) from Murang'a University of Technology (MUT) Kenya who loves being on the keyboard building/programming and testing stuff. I am passionate about testing having a backgroung in IT security testing and developing API's. This experience enables me to build and develop better and securely as a fullstack dev. In recent times, I have been scaling to DevOps and have been continuously learning and upskilling to work with recent IT trends and innovations inlcuding AI, Blockchain, Ecommerce, and Fintech. 
+I'm a self-driven IT solutions enthusiast, full-stack developer, and DevOps learner with a strong passion for building, testing, and scaling APIs. I hold a BSc in Information Technology from Murang’a University of Technology (MUT), Kenya, and I thrive at the intersection of software development, infrastructure, and emerging tech.
+
+💻 What I Do:
+
+🔧 Develop & test robust APIs — RESTful, GraphQL, and beyond
+
+🖥️ Build full-stack applications using modern frameworks like React, Next.js, Node.js, and Laravel
+
+🚀 Explore and implement DevOps practices — CI/CD, containerization (Docker), orchestration (Kubernetes), and infrastructure-as-code (Terraform)
+
+☁️ Work with cloud platforms like AWS, GCP, and Azure
+
+🛒 Passionate about eCommerce, Fintech, and blockchain-based solutions
+
+🧪 Skilled in automated testing (unit, integration, and end-to-end)
+
+🔍 Continuously learning AI integration, modern system design, and scalable architectures
+
+🛠️ Tech Stack Highlights:
+
+Languages: JavaScript, Python, PHP, Bash
+
+Frontend: React, Next.js, Tailwind CSS, Vue.js
+
+Backend: Node.js (Express), Laravel, Django
+
+DevOps & Tools: Docker, GitHub Actions, Jenkins, Kubernetes, NGINX
+
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+
+Cloud & Infra: AWS (EC2, S3, Lambda), Firebase, DigitalOcean
+
+Other: Shopify API, Stripe, GraphQL, Webhooks
+
+🌱 Currently Learning:
+DevOps best practices, Kubernetes, system design, AI for developers, and blockchain integrations for real-world applications.
+
+📫 Let’s connect & collaborate!
+Whether it's a bug, a build, or brainstorming a solution — I love solving problems and bringing ideas to life.
 
 If you are interested in a remote developer and IT expert reach me:
 
