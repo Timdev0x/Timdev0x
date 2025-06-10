@@ -3,31 +3,20 @@ I'm a self-driven IT solutions enthusiast, full-stack developer, and DevOps lear
 💻 What I Do:
 
 🔧 Develop & test robust APIs — RESTful, GraphQL, and beyond
-
 🖥️ Build full-stack applications using modern frameworks like React, Next.js, Node.js, and Laravel
-
 🚀 Explore and implement DevOps practices — CI/CD, containerization (Docker), orchestration (Kubernetes), and infrastructure-as-code (Terraform)
-
 ☁️ Work with cloud platforms like AWS, GCP, and Azure
-
 🛒 Passionate about eCommerce, Fintech, and blockchain-based solutions
-
 🧪 Skilled in automated testing (unit, integration, and end-to-end)
-
 🔍 Continuously learning AI integration, modern system design, and scalable architectures
 
 🛠️ Tech Stack Highlights:
 
 Languages: JavaScript, Python, PHP, Bash
-
 Frontend: React, Next.js, Tailwind CSS, Vue.js
-
 Backend: Node.js (Express), Laravel, Django
-
 DevOps & Tools: Docker, GitHub Actions, Jenkins, Kubernetes, NGINX
-
 Databases: PostgreSQL, MongoDB, MySQL, Redis
-
 Cloud & Infra: AWS (EC2, S3, Lambda), Firebase, DigitalOcean
 
 Other: Shopify API, Stripe, GraphQL, Webhooks
@@ -37,14 +26,10 @@ DevOps best practices, Kubernetes, system design, AI for developers, and blockch
 
 📫 Let’s connect & collaborate!
 Whether it's a bug, a build, or brainstorming a solution — I love solving problems and bringing ideas to life.
-
 If you are interested in a remote developer and IT expert reach me:
 
-Fiverr: https://www.fiverr.com/inbox/suredeveloper
-
+Fiverr: https://www.fiverr.com/suredeveloper
 Email: tim.dev2019@gmail.com
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=css,discord,django,docker,express,firebase,github,sublime,ruby,redux,mongo,php,go,graphql,heroku,nodejs,figma&theme=light)](https://skillicons.dev)
 
