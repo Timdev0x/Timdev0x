@@ -1,94 +1,52 @@
 I'm a self-driven full-stack developer and DevOps enthusiast with a BSc in Information Technology from Murang’a University of Technology, Kenya. Passionate about crafting secure, scalable APIs and applications, I excel in blending software development, cybersecurity, and infrastructure to deliver innovative solutions in eCommerce, Fintech, and AI-driven systems.
 
-💻 What I Do
 
-
-
-
+💻 What I do:-
 
 🔧 Build and test secure APIs (RESTful, GraphQL)
 
-
-
 🖥️ Develop full-stack apps with React, Next.js, Node.js, and Laravel
-
-
 
 🚀 Implement DevOps: CI/CD, Docker, Kubernetes, Terraform
 
-
-
 ☁️ Deploy on cloud platforms: AWS, GCP, Azure
-
-
 
 🛒 Optimize eCommerce with workflow automation and integrations
 
-
-
 🔒 Conduct security audits and vulnerability assessments
-
-
 
 🧪 Ensure quality with automated testing (unit, integration, E2E)
 
-🛠️ Tech Stack
 
 
-
-
+🛠️ Tech Stack:-
 
 Languages: JavaScript, Python, PHP, Bash
 
-
-
 Frontend: React, Next.js, Tailwind CSS, Vue.js
-
-
 
 Backend: Node.js (Express), Laravel, Django
 
-
-
 DevOps & Tools: Docker, GitHub Actions, Jenkins, Kubernetes, Terraform, NGINX
-
-
 
 Databases: PostgreSQL, MongoDB, MySQL, Redis
 
-
-
 Cloud & Infra: AWS (EC2, S3, Lambda), Firebase, DigitalOcean
-
-
 
 Other: Stripe, GraphQL, Webhooks, Shopify API
 
-🌱 Currently Learning
 
 
-
-
-
+🌱 Currently Learning:-
 Advanced DevOps, Kubernetes, and system design
 
-
-
 AI integrations and blockchain for real-world applications
+
+
 
 📫 Let's Connect
 
 Ready to tackle bugs, build solutions, or brainstorm ideas? Let's collaborate!
-
-
-
-
-
-Fiverr: suredeveloper
-
-
-
-Email: tim.dev2019@gmail.com
 
 Fiverr: https://www.fiverr.com/suredeveloper
 Email: tim.dev2019@gmail.com
