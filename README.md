@@ -88,5 +88,8 @@ Email: tim.dev2019@gmail.com
 
 **📊 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=dark&hide=issues&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&layout=compact&theme=dark&langs_count=8)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Timdev0x&theme=dark&hide_border=true)  
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Timdev0x&theme=onedark&no-frame=true&margin-w=5)  
+![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=Timdev0x&repo=Timdev0x&theme=dark&show_owner=true)
