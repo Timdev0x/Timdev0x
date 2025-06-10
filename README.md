@@ -16,6 +16,8 @@ I'm a self-driven IT solutions enthusiast, full-stack developer, and DevOps lear
 
 🔍 Continuously learning AI integration, modern system design, and scalable architectures
 
+
+
 🛠️ Tech Stack Highlights:
 
 Languages: JavaScript, Python, PHP, Bash
@@ -31,6 +33,8 @@ Databases: PostgreSQL, MongoDB, MySQL, Redis
 Cloud & Infra: AWS (EC2, S3, Lambda), Firebase, DigitalOcean
 
 Other: Shopify API, Stripe, GraphQL, Webhooks
+
+
 
 🌱 Currently Learning:
 DevOps best practices, Kubernetes, system design, AI for developers, and blockchain integrations for real-world applications.
