@@ -51,28 +51,42 @@ Ready to tackle bugs, build solutions, or brainstorm ideas? Let's collaborate!
 Fiverr: https://www.fiverr.com/suredeveloper
 Email: tim.dev2019@gmail.com
 
-**🛡️ Technologies**
+**🛠️ Core Technologies**
 
-[![Core Skills](https://skillicons.dev/icons?i=js,python,php,bash,react,nextjs,tailwind,vue,nodejs,laravel,django)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=js,python,php,bash,react,nextjs,tailwind,vue,nodejs,laravel,django,flutter)](https://skillicons.dev)
 
 **Frameworks & Tools**
 
-[![Frameworks](https://skillicons.dev/icons?i=redux,express,nuxtjs,sass,graphql,postman,composer)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=redux,express,nuxtjs,sass,graphql,postman,composer,shopify)](https://skillicons.dev)
 
-**DevOps & Cloud**
+**DevOps & Automation**
 
-[![DevOps & Cloud](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,gcp,azure,githubactions)](https://skillicons.dev)
+[![DevOps & Automation](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,gcp,azure,githubactions,ansible,prometheus,grafana)](https://skillicons.dev)
 
 **Databases & APIs**
 
 [![Databases & APIs](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,stripe)](https://skillicons.dev)
 
-**Cybersecurity & Virtualization**
+**Cybersecurity**
 
-[![Cybersecurity & Virtualization](https://skillicons.dev/icons?i=burpsuite,vmware,vscode,git)](https://skillicons.dev)
+[![Cybersecurity](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Burp%20Suite-FF5733?style=flat&logo=burpsuite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=red"/>
+
+**Virtualization**
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=black"/> 
+<img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=microsoft&logoColor=white"/>
+
+**Development Tools**
+
+[![Development Tools](https://skillicons.dev/icons?i=vscode,git,npm)](https://skillicons.dev)
 
 **📊 GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&layout=compact&theme=dark)  
-![GitHub Snake](https://github.com/Timdev0x/Timdev0x/blob/output/github-contribution-grid-snake-dark.svg)
