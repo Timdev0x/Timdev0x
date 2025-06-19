@@ -1,4 +1,4 @@
-I'm a self-driven full-stack developer and DevOps enthusiast with a BSc in Information Technology from Murang’a University of Technology, Kenya. Passionate about crafting secure, scalable APIs and applications, I excel in blending software development, cybersecurity, and infrastructure to deliver innovative solutions in eCommerce, Fintech, and AI-driven systems.
+I’m a self-driven full-stack developer and DevOps enthusiast based in Nairobi, Kenya. With a BSc in IT, I’m passionate about crafting secure, scalable APIs and applications, excelling in blending software development, cybersecurity, and infrastructure to deliver innovative solutions in eCommerce, Fintech, and AI-driven systems.
 
 
 💻 What I do:-
