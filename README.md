@@ -100,8 +100,8 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 - **Email**: [tim.dev2019@gmail.com](mailto:tim.dev2019@gmail.com)
 - **Twitter/X**: [TimBlasts101](https://x.com/TimBlasts101)
 - **GitHub**: [Timdev0x](https://github.com/Timdev0x)
-- **LinkedIn**: [Your LinkedIn Profile](#) *(Update with your actual LinkedIn URL)*
-
+- **LinkedIn**: [Timothy Mathenge](https://www.linkedin.com/in/timothy-mathenge-bba730127/)
+  <a href="https://www.linkedin.com/in/timothy-mathenge-bba730127/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 ---
 
 ## 📊 GitHub Stats & Activity
