@@ -103,13 +103,28 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 - **LinkedIn**: [Timothy Mathenge](https://www.linkedin.com/in/timothy-mathenge-bba730127/)
   <a href="https://www.linkedin.com/in/timothy-mathenge-bba730127/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 ---
+📊 GitHub Stats & Activity
+<div align="center">
 
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=dark&hide=issues&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&layout=compact&theme=dark&langs_count=10)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Timdev0x&theme=dark&hide_border=true)  
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Timdev0x&theme=onedark&no-frame=true&margin-w=5)  
-![GitHub Snake](https://raw.githubusercontent.com/Timdev0x/Timdev0x/output/snake.svg)
+🧠 Contribution Graph
+<a href="https://github.com/Timdev0x"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Timdev0x&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" /> </a>
+
+⚡ GitHub Stats
+<a href="https://github.com/Timdev0x"> <img src="https://github-readme-stats.vercel.app/api?username=Timdev0x&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /> </a>
+
+🧮 Top Languages
+<a href="https://github.com/Timdev0x"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timdev0x&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" /> </a>
+
+🔥 Streak Stats
+<a href="https://github.com/Timdev0x"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timdev0x&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </a>
+
+🏆 Profile Trophy Cabinet
+<a href="https://github.com/Timdev0x"> <img src="https://github-profile-trophy.vercel.app/?username=Timdev0x&theme=darkhub&no-frame=true&margin-w=10" alt="Trophies" /> </a>
+
+🐍 Contribution Snake Animation
+<img src="https://raw.githubusercontent.com/Timdev0x/Timdev0x/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+
+</div>
 
 ---
 
