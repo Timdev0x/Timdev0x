@@ -121,17 +121,12 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 🏆 Profile Trophy Cabinet
 <a href="https://github.com/Timdev0x"> <img src="https://github-profile-trophy.vercel.app/?username=Timdev0x&theme=darkhub&no-frame=true&margin-w=10" alt="Trophies" /> </a>
 
-🐍 Contribution Snake Animation
-<img src="https://raw.githubusercontent.com/Timdev0x/Timdev0x/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-
 </div>
 
 ---
 
-## 🎥 Project Demo
-*Watch a quick demo of my CI/CD pipeline in action!*  
-![CI/CD Demo](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
-*Replace with your own project demo GIF by uploading to your repo or a service like Giphy.*
+🎥 Project Demo
+Watch a quick demo of my CI/CD pipeline in action! <div align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="CI/CD Demo" width="600"/> </div>
 
 ---
 
