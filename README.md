@@ -125,8 +125,15 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 
 ---
 
-🎥 Project Demo
-Watch a quick demo of my CI/CD pipeline in action! <div align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="CI/CD Demo" width="600"/> </div>
+<img src="https://media.giphy.com/media/3o6Mbf0r1q0S2vU3Di/giphy.gif" alt="Coding Frenzy" width="500">
+  When you’re smashing through code like a boss! 🚀
+
+
+  <img src="https://media.giphy.com/media/26xBwdIuR0q9W1g5a/giphy.gif" alt="Debugging Struggle" width="500">
+  That moment when you realize the bug is *you*... 😅
+
+
+  <img src="https://media.giphy.com/media/3o7aDcz7L6xL9t4mNW/giphy.gif" alt="Victory Dance" width="500">
 
 ---
 
