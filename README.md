@@ -124,11 +124,7 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 </div>
 
 ---
-<img src="https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif" width="250">
-<p><strong>Me:</strong> "I’ll just fix one
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250">
-<p><strong>Senior Dev Cat:</strong> "I deleted node_modules. You're welcome."</p>
 
 
 ---
