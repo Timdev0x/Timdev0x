@@ -125,15 +125,14 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 
 ---
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Coding Cat" width="500">
-  When your cat decides it’s time to “help” with coding... 😺
+### 🐾 When your cat decides it’s time to “help” with coding...
+![Coding Cat](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
+### 💻 That late-night coding sprint vibe!
+![Typing Madness](https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif)
 
-  <img src="https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif" alt="Typing Madness" width="500">
-  That late-night coding sprint vibe! 💻
-
-
-  <img src="https://media.giphy.com/media/3o7TKtnb4wIvNVLK6Y/giphy.gif" alt="Code Success" width="500">
+### 🎉 Code success feels like this!
+![Code Success](https://media.giphy.com/media/3o7TKtnb4wIvNVLK6Y/giphy.gif)
 
 ---
 
