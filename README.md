@@ -124,21 +124,6 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 </div>
 
 ---
-<img src="https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif" alt="Frenzy Typing" width="250">
-  The 2 AM deploy rush: Fingers flying, coffee spilling. ☕💨
-
-
-  <img src="https://tenor.com/view/programmer-developer-coding-computer-laptop-hacking-gif-17850380.gif" alt="Hacker Focus" width="250">
-  When you're deep in the logs, channeling your inner cyber wizard. 🧙‍♂️
-
-
-  <img src="https://tenor.com/view/debugging-code-developer-gif-14710876.gif" alt="Bug Hunt" width="250">
-  Hunting that elusive bug like it's Bigfoot in your codebase. 🐛🔍
-
-
-  <img src="https://tenor.com/view/success-celebration-dance-happy-gif-17259145.gif" alt="Deploy Victory" width="250">
-  Pipeline green? Time for the victory jig! 🎊
-
 
 ---
 
