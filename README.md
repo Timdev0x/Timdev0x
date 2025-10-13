@@ -124,15 +124,21 @@ Got a challenging project or innovative idea? I'm ready to build, optimize, or b
 </div>
 
 ---
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300">
+<p><strong>Your cat just refactored your code.</strong><br>It now meows on compile. 😼</p>
+<img src="https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif" width="300">
+<p><strong>When you hit "merge" at 2 AM</strong><br>and pray to the CI gods. 🙏💥</p>
+<img src="https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif" width="300">
+<p><strong>When you hit "merge" at 2 AM</strong><br>and pray to the CI gods. 🙏💥</p>
+<img src="https://media.giphy.com/media/3o7TKtnb4wIvNVLK6Y/giphy.gif" width="300">
+<p><strong>You fixed the bug.</strong><br>You deserve a parade. Or at least a cookie. 🍪</p>
+| Mood        | Reaction |
+|-------------|----------|
+| Debugging   | 😵‍💫     |
+| Deploying   | 🚀       |
+| Waiting on PR | 🧘     |
+| Friday 5PM  | 🕺       |
 
-### 🐾 When your cat decides it’s time to “help” with coding...
-![Coding Cat](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-
-### 💻 That late-night coding sprint vibe!
-![Typing Madness](https://media.giphy.com/media/3o6ZsZZbC1V3yV2Y6I/giphy.gif)
-
-### 🎉 Code success feels like this!
-![Code Success](https://media.giphy.com/media/3o7TKtnb4wIvNVLK6Y/giphy.gif)
 
 ---
 
